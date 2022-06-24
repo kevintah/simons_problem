@@ -1,3 +1,9 @@
+ //References
+ //https://aws.amazon.com/blogs/quantum-computing/simons-algorithm/
+ //https://leimao.github.io/blog/Simon-Algorithm/
+ //https://young.physics.ucsc.edu/150/simon.pdf
+ //https://jonathan-hui.medium.com/qc-simons-algorithm-be570a40f6de
+ 
  Problem:
  
  Oracle 
