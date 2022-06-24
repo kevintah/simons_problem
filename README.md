@@ -52,8 +52,8 @@
 
     big O 
 
-     best  case/ worse case analysis
+     do best  case/ worse case analysis for code 
 
-     classical COMPLEXITY O(n/2 + 1)
+     classical COMPLEXITY O(n/2 + 1) in number of bits
 
    
