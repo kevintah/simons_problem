@@ -1,4 +1,5 @@
  //References
+ //https://en.wikipedia.org/wiki/Simon%27s_problem#:~:text=In%20computational%20complexity%20theory%20and,that%20is%2C%20traditional)%20computer.
  //https://aws.amazon.com/blogs/quantum-computing/simons-algorithm/
  //https://leimao.github.io/blog/Simon-Algorithm/
  //https://young.physics.ucsc.edu/150/simon.pdf
