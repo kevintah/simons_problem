@@ -4,6 +4,8 @@
  //https://young.physics.ucsc.edu/150/simon.pdf
  //https://jonathan-hui.medium.com/qc-simons-algorithm-be570a40f6de
  //https://www.cs.ubc.ca/~condon/cpsc506/lectures/lec19.pdf
+ //https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+ //https://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html
  
  Problem:
  
@@ -31,4 +33,11 @@
     110  |
     101  |
     010  |
+   
+
+
+    big O 
+
+     best  case/ worse case analysis
+
    
