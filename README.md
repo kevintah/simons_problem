@@ -1,3 +1,11 @@
-# node-czfdvp
+ Problem:
+ 
+ Oracle 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-czfdvp)
+ f: {0,1}^n --> {0,1}^n
+
+ Promise 
+
+ s elem {0,1}^n  for  x,y  elem {0,1}^n
+
+ f(x)= f(y)  iff x bitwise addition elem {0^n, s}
