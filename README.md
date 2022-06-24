@@ -31,9 +31,12 @@
  f(x)= f(y)  iff x bitwise addition elem {0^n, s}
      
     f(x) =  f(x bitwise addition a)
+      
+       let n = 3;
 
-       pick 'a' and populate f(x)
+       pick  a secret 's' and populate f(x)
 
+      
 
     x    |  f(x)
     000  |
