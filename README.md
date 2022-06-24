@@ -15,6 +15,8 @@
  //https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
 
  //https://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html
+
+ //https://medium.com/quantum-untangled/simons-algorithm-quantum-algorithms-untangled-62c8f81ed27a
  
  Problem:
  
@@ -48,5 +50,7 @@
     big O 
 
      best  case/ worse case analysis
+
+     classical COMPLEXITY O(n/2 + 1)
 
    
