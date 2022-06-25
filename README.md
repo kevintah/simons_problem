@@ -50,10 +50,12 @@
    
 
 
-    big O 
+    big O  for code complexity
 
-     do best  case/ worse case analysis for code 
+     do best  case/ worst case analysis for code 
 
-     classical COMPLEXITY O(n/2 + 1) in number of bits
+       something like ~O(n^2) for code written   
+
+     classical COMPLEXITY  O(n/2 + 1) in number of bits (how complex as size grows different from code complexity) 
 
    
