@@ -48,14 +48,14 @@
     101  |
     010  |
    
-
+   |range(f)|= 2^(n-1) ~ 2^2 ~4
 
     big O  for code complexity
 
-     do best  case/ worst case analysis for code 
+     do best case/ worst case analysis for code 
 
        something like ~O(n^2) for code written   
 
-     classical COMPLEXITY  O(n/2 + 1) in number of bits (how complex as size grows different from code complexity) 
+     classical COMPLEXITY  O(n/2 + 1) in number of bits (how complex as size grows different from code complexity) or also 2^n-1 + 1
 
    
