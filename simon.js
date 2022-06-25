@@ -14,7 +14,6 @@ var simon_pairs = {
                     "111"	: "010"
                   } 
 
-
 var keys = Object.keys(simon_pairs);
 var values = Object.values(simon_pairs);
 var match_pair = [];
@@ -22,15 +21,13 @@ var match_pair = [];
 for (var i = 0; i < values.length; i++) {
   for (var k = i + 1; k < values.length; k++) {
       if (values[i] == values[k]) {
-        match_pair.push(i);
-        match_pair.push(k);
-        
+          match_pair.push(i);
+          match_pair.push(k);        
       }
   }
 }
 
 var secret = (eval(keys[match_pair[0]] ^ keys[match_pair[1]]));
-
 
 
 console.log(keys);
