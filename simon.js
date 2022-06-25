@@ -3,10 +3,7 @@
 // It finds the secret
 // Optimization coming soon
 
-var n = 3;
-
 var simon_pairs = {
-  
                     "000" : "101",
                     "001" : "010",
                     "010"	: "000",
@@ -22,8 +19,8 @@ var keys = Object.keys(simon_pairs);
 var values = Object.values(simon_pairs);
 var match_pair = [];
 
-for (let i = 0; i < values.length; i++) {
-  for (let k = i + 1; k < values.length; k++) {
+for (var i = 0; i < values.length; i++) {
+  for (var k = i + 1; k < values.length; k++) {
       if (values[i] == values[k]) {
         match_pair.push(i);
         match_pair.push(k);
